@@ -1,14 +1,14 @@
-## Hello, I'm Ingrid  👋
+# Hello, I'm Ingrid  👋
 
 
-# 📚 Projects
+## 📚 Projects
 Check out my protfolio, where I showcase my lates work in data analysis, AI and automation.
 
-# 🛠️ Tools
+## 🛠️ Tools
 Languages: SQL, Python, R, Java, MATLAB
 Machine Learning & AI: Scikit-learn, TensorFlow
 
-# 👋🏻 Connect with Me
+## 👋🏻 Connect with Me
 [Linkedin](www.linkedin.com/in/ingrid-araceli-salvador-maldonado-8758a81ba)
 
 <!--
