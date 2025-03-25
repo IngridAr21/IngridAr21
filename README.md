@@ -1,7 +1,5 @@
 ## Hello, I'm Ingrid  👋
 
-<!--
-**IngridAr21/IngridAr21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 📚 Projects
 Welcome to my portfolio, where I showcase my projects.
@@ -15,4 +13,6 @@ Visualization: Tableau, Looker Studio
 Linkedin
 Hire me on Upwork
 
+<!--
+**IngridAr21/IngridAr21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
