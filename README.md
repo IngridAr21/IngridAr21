@@ -1,6 +1,4 @@
 # Hello, I'm Ingrid  👋
-
-
 ## 📚 Projects
 Check out my protfolio, where I showcase my lates work in data analysis, AI and automation.
 
