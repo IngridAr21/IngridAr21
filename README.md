@@ -7,7 +7,7 @@ I’m passionate about Data Science, Machine Learning, and AI, exploring how the
 ### 📚 Projects
 Explore some of my main projects, where I combine **AI, Data Science, and software development** to build data-driven and scalable solutions.
 
-- **[Temporal Knowledge Graphs](https://github.com/IngridAr21/Temporal-Knowledge-Graphs)** – **Bachelor Thesis Project** conducted in collaboration with **Mercedes-Benz Customer Assistance Center (CAC)**. It focuses on building **Temporal Knowledge Graphs** from **emails, call transcripts, and case descriptions** to represent how **customer cases evolve over time** through **entity and relationship extraction** using **NLP** and **LLM-based methods**.
+- **[Temporal Knowledge Graphs]** – **Bachelor Thesis Project** conducted in collaboration with **Mercedes-Benz Customer Assistance Center (CAC)**. It focuses on building **Temporal Knowledge Graphs** from **emails, call transcripts, and case descriptions** to represent how **customer cases evolve over time** through **entity and relationship extraction** using **NLP** and **LLM-based methods**.
 
 - **[AI Assistant](https://github.com/IngridAr21/AI-Assistant)** – Conversational AI system that transforms spoken dialogues into actionable tasks using **Whisper ASR** and NLP pipelines.  
 
