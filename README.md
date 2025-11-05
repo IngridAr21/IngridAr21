@@ -6,17 +6,17 @@ I’m passionate about Data Science, Machine Learning, and AI, exploring how the
 
 ### 📚 Projects
 Explore some of my main projects, where I combine **AI, Data Science, and software development** to build data-driven and scalable solutions.
-- 🧠 **[AI Assistant](#)** – Conversational AI system that transforms spoken dialogues into actionable tasks using **Whisper ASR** and NLP pipelines.  
+- 🧠 **[AI Assistant](https://github.com/IngridAr21/AI-Assistant)** – Conversational AI system that transforms spoken dialogues into actionable tasks using **Whisper ASR** and NLP pipelines.  
 
-- 🧩 **[Automated Market Segmentation](#)** – Machine learning project automating **B2B customer segmentation** with **hierarchical clustering** and **LSTM** models for behavioural prediction.  
+- 🧩 **[Automated Market Segmentation](https://github.com/IngridAr21/Automated-Market-Segmentation)** – Machine learning project automating **B2B customer segmentation** with **hierarchical clustering** and **LSTM** models for behavioural prediction.  
 
-- ☁️ **[Cloud-Based Bookstore (LSIT Books)](#https://github.com/IngridAr21/LSIT_Bookstore)** – Cloud e-commerce platform built with **Terraform** and **Google Cloud**, featuring scalable infrastructure, REST APIs, and automated deployment.  
+- ☁️ **[Cloud-Based Bookstore (LSIT Books)](https://github.com/IngridAr21/LSIT_Bookstore)** – Cloud e-commerce platform built with **Terraform** and **Google Cloud**, featuring scalable infrastructure, REST APIs, and automated deployment.  
 
-- 🔐 **[Computer Security System](#)** – Secure **client–server Java application** supporting authenticated communication with **SSL/TLS encryption** and JSON-based logging.  
+- 🔐 **[Computer Security System](https://github.com/IngridAr21/Computer_Security)** – Secure **client–server Java application** supporting authenticated communication with **SSL/TLS encryption** and JSON-based logging.  
 
-- 🚀 **[Rocket Mission Simulator](#)** – Interactive **JavaFX simulation** modeling a rocket’s trajectory to Titan using **Euler’s Method** for numerical integration and physics-based modeling.  
+- 🚀 **[Rocket Mission Simulator](https://github.com/IngridAr21/RocketMission_Simulator)** – Interactive **JavaFX simulation** modeling a rocket’s trajectory to Titan using **Euler’s Method** for numerical integration and physics-based modeling.  
 
-- 🎨 **[Graph Colouring Game](#)** – Python-based exploration of the **Graph Colouring Problem**, combining algorithmic optimisation with an interactive game that tests human strategies.
+- 🎨 **[Graph Colouring](https://github.com/IngridAr21/Graph-Coloring)** – Python-based exploration of the **Graph Colouring Problem**, combining algorithmic optimisation with an interactive game that tests human strategies.
   
 ### 🛠️ Tools
 - Languages: SQL, Python, R, Java, MATLAB
