@@ -13,6 +13,8 @@ Explore some of my main projects, where I combine **AI, Data Science, and softwa
 
 - **[Automated Market Segmentation](https://github.com/IngridAr21/Automated-Market-Segmentation)** – Machine learning project automating **B2B customer segmentation** with **hierarchical clustering** and **LSTM** models for behavioural prediction.  
 
+-  **[Recardelino Wrapped](https://github.com/IngridAr21/RecardelinoWrapped/blob/main/README.md)** – Personalized Spotify Wrapped-style analytics for Juanjo Bona’s album *Recardelino* using Python and Flask. Generates detailed listening insights from extended streaming history data. 
+
 - **[Cloud-Based Bookstore (LSIT Books)](https://github.com/IngridAr21/LSIT_Bookstore)** – Cloud e-commerce platform built with **Terraform** and **Google Cloud**, featuring scalable infrastructure, REST APIs, and automated deployment.  
 
 - **[Computer Security System](https://github.com/IngridAr21/Computer_Security)** – Secure **client–server Java application** supporting authenticated communication with **SSL/TLS encryption** and JSON-based logging.  
