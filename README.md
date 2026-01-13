@@ -1,7 +1,7 @@
 # Hello, I'm Ingrid  👋
 I am a self-taught and curious learner, constantly working on my own projects, often inspired by my interests such as music preferences, hobbies, and more. Every day, I strive to learn something new across different fields while refining my technical skills.
 
-I’m passionate about Data Science, Machine Learning, and AI, exploring how these tools can turn complex data into meaningful insights and smarter prdocuts.
+I’m passionate about Data Science, Machine Learning, and AI, exploring how these tools can turn complex data into meaningful insights and smarter products.
 
 
 ### 📚 Projects
