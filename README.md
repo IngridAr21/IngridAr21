@@ -22,6 +22,8 @@ Explore some of my main projects, where I combine **AI, Data Science, and softwa
 - **[Rocket Mission Simulator](https://github.com/IngridAr21/RocketMission_Simulator)** – Interactive **JavaFX simulation** modeling a rocket’s trajectory to Titan using **Euler’s Method** for numerical integration and physics-based modeling.  
 
 - **[Graph Colouring](https://github.com/IngridAr21/Graph-Coloring)** – Python-based exploration of the **Graph Colouring Problem**, combining algorithmic optimisation with an interactive game that tests human strategies.
+-**[Vodafone - CodeLikeAGirl](https://github.com/IngridAr21/Vodafone-CodeLikeaGirl)** - **My first steps into programming:** an online currency converter created at age 14 during Vodafone’s #CodeLikeAGirl training program. Built with **HTML, CSS, and JavaScript**, it introduced me to fundamental web development concepts
+
   
 ### 🛠️ Tools
 - Languages: Python, SQL, R, Java, MATLAB, C, HTML, JavaScript
